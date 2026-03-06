@@ -26,5 +26,9 @@ To execute this project, you will need to have these platforms or packs. Thunder
 
 If you challenge downloading Springboot on Visual Studio Code, you can check this YouTube video. 
 This video also includes how to create a new Springboot Project so, it will be a helper to create your own first Springboot Project on Visual Studio Code
+>[!CAUTION]
+>While creating a new project, sometimes Spring and Java versions might not support each other. Therefore, you should be careful while selecting the versions of both Java and Springboot
+
+
 
 [![[Visual Studio Code Springboot and Java Setup Tutorial]](https://img.youtube.com/vi/dq1z9t03mXI/0.jpg)](https://www.youtube.com/watch?v=dq1z9t03mXI)
