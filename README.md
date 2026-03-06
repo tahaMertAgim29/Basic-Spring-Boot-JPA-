@@ -9,7 +9,7 @@ This is a **trial** project for **Springboot JPA** on **VISUAL STUDIO CODE**.
 
 ## Requirements
 
-To execute this project, you will need to have these platforms or packs. Thunder Client is used to execute **POST**, **DELETE** requests but you can use another tools such as **Postman**.
+To execute this project, you will need to have these platforms or packs. Thunder Client is used to execute **POST**, **DELETE** requests in this project but you can use another tools such as **Postman**.
 
 - *Visual Studio Code*
 - *Springboot Extension Pack*
