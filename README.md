@@ -18,25 +18,25 @@ To execute this project, you will need to have these platforms or packs. Thunder
 - *Thunder Client* (Optional to execute such requests as POST and DELETE)
 
 > [!IMPORTANT]
-> While you clone this repository, make sure that methods or annotations of these required dependencies are working well. To make sure, you should check pom.xml file where `dependency` tags exist.
+> While you clone this repository, make sure that methods or annotations of these required dependencies are working well. To make sure, you should check pom.xml file where `<dependency>` tags exist.
 
 ## MySQL Database Link Set
-When you download this project, you should check the application_properties file to ensure your database link where it is at `jpademo/src/main/resources` path in the Springboot Project. 
+When you download this project, you should check the application_properties file to ensure your database link where it is at `jpademo/src/main/resources` path in the Springboot Project and ypu will find these lines:
+ 
+* spring.datasource.url=jdbc:mysql://localhost:3306/YOUR_DATABASE_NAME
+* spring.datasource.username=root
+* spring.datasource.password=YOUR_PASSWORD
 
-
-
-
-
-
-
-
+You should write your own database name and your database password instead of `YOUR_DATABASE_NAME` and `YOUR_PASSWORD` words in following order.
+>[!WARNING]
+> For any possibility, you had better create the database in MYSQL since Spring may not sometimes see the database in MYSQL.
 
 ## Link
 
 If you challenge downloading Springboot on Visual Studio Code, you can check this YouTube video. 
-This video also includes how to create a new Springboot Project so, it will be a helper to create your own first Springboot Project on Visual Studio Code
+This video also includes how to create a new Springboot Project so, it will be a helper to create your own first Springboot Project on Visual Studio Code.
 >[!CAUTION]
->While creating a new project, sometimes Spring and Java versions might not support each other. Therefore, you should be careful while selecting the versions of both Java and Springboot
+>While creating a new project, sometimes Spring and Java versions might not support each other. Therefore, you should be careful while selecting the versions of both Java and Springboot.
 
 
 
