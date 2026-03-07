@@ -18,7 +18,16 @@ To execute this project, you will need to have these platforms or packs. Thunder
 - *Thunder Client* (Optional to execute such requests as POST and DELETE)
 
 > [!IMPORTANT]
-> While you clone this repository, make sure that methods or annotations of these required dependencies are working well. To make sure, you should check pom.xml file where "dependency" tags exist.
+> While you clone this repository, make sure that methods or annotations of these required dependencies are working well. To make sure, you should check pom.xml file where `dependency` tags exist.
+
+## MySQL Database Link Set
+When you download this project, you should check the application_properties file to ensure your database link where it is at `jpademo/src/main/resources` path in the Springboot Project. 
+
+
+
+
+
+
 
 
 
