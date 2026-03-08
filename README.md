@@ -39,7 +39,7 @@ This video also includes how to create a new Springboot Project so, it will be a
 >While creating a new project, sometimes Spring and Java versions might not support each other. Therefore, you should be careful while selecting the versions of both Java and Springboot.
 
 
-![Springboot](https://img.shields.io/badge/Springboot-brightgreen?style=for-the-badge&logo=spring&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff) 
+![Springboot](https://img.shields.io/badge/Springboot-brightgreen?style=for-the-badge&logo=springboot&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff) 
 ![Java](https://img.shields.io/badge/Java-%23C00000?style=for-the-badge&logo=openjdk&logoColor=fff) ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-%23512BD4?style=for-the-badge&logo=thunderclient&logoColor=fff)
 
 
