@@ -7,6 +7,13 @@ This is a **trial** project for **Springboot JPA** on **VISUAL STUDIO CODE**.
 > [!WARNING]
 > Before starting, you should be sure that you will use Visual Studio Code as your platform for Springboot since these steps are for Visual Studio Code
 
+## Features
+
+- Sending Http Requests which are not allowed to be directly sent to Web such as **POST** and **DELETE**.
+- Setting database tables relationships set by Springboot without writing on MySQL. 
+- Handling globally Exceptions.
+- Understanding structure of Repository, Service and Controller.
+
 ## Requirements
 
 To execute this project, you will need to have these platforms or packs. Thunder Client is used to execute **POST**, **DELETE** requests in this project but you can use another tools such as **Postman**.
